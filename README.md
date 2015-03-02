@@ -1,0 +1,2 @@
+# AlgoritmaAnalizLabCalismalari
+uygulamalar
